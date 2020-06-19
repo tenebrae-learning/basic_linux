@@ -1,0 +1,7 @@
+1. vim hello.py
+2. wc -l hello.py
+3. nano linear.py
+4. cat hello.py linear.py > result.py
+5. cat *.py | wc -l # Считаем линии всех питоновских файлов в папке
+   cat > tmp.txt # Пишем в терминале и сохраняем в файл
+   cat hello.py linear.py tmp.txt # Выводим содержимое файлов на экран без сохранения результата в файл
